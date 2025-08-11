@@ -7,56 +7,34 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+🕌 Sistem Informasi Masjid (SIMasjid)
+Sistem Informasi Masjid (SIMasjid) adalah aplikasi berbasis web yang dibangun untuk mempermudah pengelolaan data dan administrasi di masjid. Dengan tampilan yang bersih dan intuitif, kami bertujuan untuk membantu pengurus masjid mengelola kegiatan, jamaah, dan keuangan dengan lebih efisien dan transparan. ✨
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Fitur-Fitur Unggulan 🚀
+Manajemen Data Jamaah 👥: Simpan data lengkap jamaah, dari nama, alamat, hingga riwayat partisipasi.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Jadwal Kegiatan Otomatis 🗓️: Atur jadwal sholat harian, pengajian rutin, atau acara khusus lainnya.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Laporan Keuangan Transparan 💰: Catat setiap pemasukan dan pengeluaran kas masjid dengan detail, dan lihat laporan ringkasnya kapan saja.
 
-## Learning Laravel
+Pengelolaan Inventaris Masjid 🗄️: Kelola daftar aset dan inventaris masjid, mulai dari karpet, sound system, hingga perlengkapan lainnya.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Manajemen Pengurus dan Relawan 🙏: Kelola data pengurus dan relawan masjid beserta tugas-tugas mereka.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Teknologi yang Digunakan 💻
+Aplikasi ini dikembangkan menggunakan Laravel, sebuah framework PHP yang elegan dan powerful. Kami percaya bahwa pengembangan harus menjadi pengalaman yang menyenangkan dan kreatif. Laravel mempermudah tugas-tugas umum dalam proyek web, seperti:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Routing yang sederhana dan cepat.
 
-## Laravel Sponsors
+Database ORM yang ekspresif dan intuitif.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Migrations untuk mengelola skema database secara agnostik.
 
-### Premium Partners
+Panduan Memulai 🛠️
+Proyek ini dibangun di atas fondasi Laravel. Untuk memulai, Anda dapat merujuk pada dokumentasi resmi Laravel yang sangat lengkap.
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+Laravel Sponsors 💖
+Kami mengucapkan terima kasih kepada para sponsor yang telah mendukung pengembangan Laravel. Jika Anda tertarik untuk menjadi sponsor, silakan kunjungi program Laravel Partners.
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# simasjid-backend
+Lisensi 📜
+Framework Laravel adalah perangkat lunak open-source yang dilisensikan di bawah Lisensi MIT.
